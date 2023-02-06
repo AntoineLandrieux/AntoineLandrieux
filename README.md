@@ -1,6 +1,5 @@
 # <center>Hi Everyone 👋!</center>
 
-<div id="header" style="display: flex;">
 <ul>
 <li>👨‍🎓 **Hi I am Antoine!** I am a beginner in programming, I am starting to master **C/C++** and **web languages** (PHP/HTML/CSS/..)
 </li>
@@ -8,8 +7,6 @@
 	👨‍💻 **My ultimate goal** is to create a **mini operating system like linux**
 </li>
 </ul>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 ### Languages and Tools:
 
@@ -45,9 +42,6 @@
 	<a href="https://discord.gg/dKyA5Hn9KA" alt="disocrd">
   <img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="mailto:zydev.fr@gmail.com" alt="gmail">
-	  <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="" alt="youtube">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
