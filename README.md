@@ -1,10 +1,10 @@
 # <div align="center">Hi Everyone 👋!</div>
 
-### - About me
+- ### About me
       - 👨‍🎓 **Hi I am Antoine!** I am a beginner in programming, I am starting to master **C/C++** and **web languages** (PHP/HTML/CSS/..)
       - 👨‍💻 **My ultimate goal** is to create a **mini operating system like linux**
 
-### - Languages and Tools:
+- ### Languages and Tools:
 
 <div id="badge">
  <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
@@ -19,7 +19,7 @@
  <img src="https://img.icons8.com/color/48/null/mysql-logo.png"/>
 </div>
 
-### - My favorite IDEs:
+- ### My favorite IDEs:
 
 <div id="badge">
  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
@@ -27,7 +27,7 @@
  <img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
 </div>
 
-### - My stats:
+- ### My stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntoineLandrieux&theme=dark&background=000000)](https://git.io/streak-stats)
 
