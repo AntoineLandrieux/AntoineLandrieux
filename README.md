@@ -1,5 +1,11 @@
 # <div align="center">Hi Everyone 👋!</div>
 
+<div id="badge" align="center">
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntoineLandrieux&theme=light&background=ffffff)](https://git.io/streak-stats)
+ 
+</div>
+
 - ### About me:
 	- 👨‍🎓 **Hi I am Antoine!** I am a beginner in programming, I am starting to master **C/C++** and **web languages** (PHP/HTML/CSS/..)
 
@@ -26,13 +32,6 @@
  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
  <img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
-</div>
-
-- ### My stats:
-<div id="badge" align="center">
- 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntoineLandrieux&theme=light&background=ffffff)](https://git.io/streak-stats)
- 
 </div>
 
 <div id="badge" align="center">
