@@ -6,7 +6,6 @@
 
 ### Languages and Tools:
 
-<div id="badges" align="center">
 <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
 <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
@@ -17,28 +16,21 @@
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/null/git.png"/>
 <img src="https://img.icons8.com/color/48/null/mysql-logo.png"/>
-</div>
 
 ### My favorite IDEs:
 
-<div id="badges" align="center">
-	<img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
-	<img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-	<img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
-</div>
+<img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
+<img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
 
 
 ### My stats:
-<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntoineLandrieux&theme=dark&background=000000)](https://git.io/streak-stats)
 
-</div>
-<div id="badges" align="center">
-	<a href="https://discord.gg/dKyA5Hn9KA" alt="disocrd">
+a href="https://discord.gg/dKyA5Hn9KA" alt="disocrd">
   <img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-  <a href="https://www.youtube.com/channel/UCtzUprIDODNKcQ13_uqQ8iw" alt="youtube">
+<a href="https://www.youtube.com/channel/UCtzUprIDODNKcQ13_uqQ8iw" alt="youtube">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
+</a>
