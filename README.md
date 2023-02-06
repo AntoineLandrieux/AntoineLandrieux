@@ -1,8 +1,9 @@
 # <div align="center">Hi Everyone 👋!</div>
 
 - ### About me:
- - 👨‍🎓 **Hi I am Antoine!** I am a beginner in programming, I am starting to master **C/C++** and **web languages** (PHP/HTML/CSS/..)
- - 👨‍💻 **My ultimate goal** is to create a **mini operating system like linux**
+	- 👨‍🎓 **Hi I am Antoine!** I am a beginner in programming, I am starting to master **C/C++** and **web languages** (PHP/HTML/CSS/..)
+
+	- 👨‍💻 **My ultimate goal** is to create a **mini operating system like linux**
 
 - ### Languages and Tools:
 
