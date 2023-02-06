@@ -28,8 +28,9 @@
 </div>
 
 - ### My stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntoineLandrieux&theme=dark&background=000000)](https://git.io/streak-stats)
+<div id="badge" align="center">
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntoineLandrieux&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 
 <div id="badge" align="center">
  <a href="https://discord.gg/dKyA5Hn9KA" alt="disocrd">
