@@ -31,7 +31,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntoineLandrieux&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<div id="badge">
+<div id="badge" align="center">
  <a href="https://discord.gg/dKyA5Hn9KA" alt="disocrd">
    <img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
  </a>
