@@ -11,7 +11,7 @@
 
 	- 👨‍💻 **My ultimate goal** is to create a **mini operating system like linux**
 
-- ### Languages and Tools:
+- ### https://github.com/golden821man/golden821man/raw/main/code.gif Languages and Tools:
 
 <div id="badge">
  <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
