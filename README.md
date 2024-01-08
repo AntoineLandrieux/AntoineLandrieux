@@ -2,7 +2,7 @@
 
 ## Mes langages et outils préférés 🔧
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,js,css,ts,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,js,ts,css,cpp,c)](https://skillicons.dev)
 
 ## Mes IDEs favoris 💻
 
