@@ -1,9 +1,9 @@
 # Hello World! 👋
 
-## Mes langages et outils préférés 🔧
+## My favorite languages ​​and tools 🔧
 
 [![My Skills](https://skillicons.dev/icons?i=git,html,js,ts,css,cpp,c)](https://skillicons.dev)
 
-## Mes IDEs favoris 💻
+## My favorite IDE 💻
 
 [![My Ides](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
