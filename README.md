@@ -1,9 +1,14 @@
+
 # Hello World! 👋
 
-## My favorite languages ​​and tools 🔧
+Hello there ! I'm just a French software engineer
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,js,ts,css,cpp,c)](https://skillicons.dev)
+> [!NOTE]
+> **My favorite languages ​​and tools**
+> 
+> [![My Skills](https://skillicons.dev/icons?i=git,html,js,ts,css,cpp,c)](https://skillicons.dev)
+>
+> [![My Ides](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
 
-## My favorite IDE 💻
-
-[![My Ides](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
+[![YT](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZyDev_)
+[![IG](https://img.shields.io/badge/instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/antoineldrx)
