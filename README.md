@@ -6,7 +6,7 @@ Hello there ! I'm just a French software engineer
 > [!NOTE]
 > **My favorite languages ​​and tools**
 > 
-> [![My Skills](https://skillicons.dev/icons?i=git,html,js,ts,css,cpp,c)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=git,html,js,css,cpp,c)](https://skillicons.dev)
 >
 > [![My Ides](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
 
